@@ -1,3 +1,9 @@
+---
+category: Manuály
+title: Discord
+description: Návod, jak se přihlásit do střediskového komunikačního nástroje jménem [Discord](https://discord.com/) a jak jej používat.
+
+---
 
 # Návod, jak se přihlásit do střediskového komunikačního nástroje jménem **Discord** a jak jej používat
 
