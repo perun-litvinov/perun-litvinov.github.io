@@ -12,7 +12,7 @@ description: Návod, jak se přihlásit do střediskového komunikačního nást
  
  4. Zadej den svého narození. Pokud ti to vadí, něco si vymysli 😅
  5. Zadej svůj e-mail a heslo ke svému novému discord účtu.
- 6. Zakřížkuj tabulku:
+ 6. Zakřížkuj okno:
 
 ![tabulka](https://raw.githubusercontent.com/perun-litvinov/perun-litvinov.github.io/main/assets/closetab.png)
  
