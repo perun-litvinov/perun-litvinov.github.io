@@ -19,3 +19,5 @@ description: Návod, jak se přihlásit do střediskového komunikačního nást
  6. Nyní už vidíš dovnitř střediskového discordu. Právě se ti zobrazila úvodní stránka.
  7. Po levé straně se nachází panel s přehledem všech tobě dostupných textových či hlasových kanálů, které náš discord nabízí. Můžeš se podívat, co obsahují.
  8. Přijde ti e-mail, ve kterém klasicky kliknutím na odkaz ověříš svůj účet.
+ 9. Discord si později můžeš stáhnout také do mobilu: [Android](https://play.google.com/store/apps/details?id=com.discord) nebo [Apple](https://apps.apple.com/us/app/discord-chat-talk-hangout/id985746746)
+ 10. Tam se pak přihlaš do svého účtu pomocí e-mailu a hesla.
