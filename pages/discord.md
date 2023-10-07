@@ -4,7 +4,8 @@ title: Discord
 description: Návod, jak se přihlásit do střediskového komunikačního nástroje jménem Discord a jak jej používat.
 
 ---
-Discord je textový a hlasový komunikační nástroj, který jsme vybrali pro zpřehlednění střediskové komunikace. Discord nám nabízí možnost propojit se s ostatními lidmi skrze tzv. kanály, které jsou rozděleny do kategorií. Kanály jsou buď :hash: textové (fungují vlastně jako chatovací skupiny na whatsappu) nebo :speaker: hlasové pro videokonference. Každý uživatel má na discordu přidělené role, což ovlivňuje to, jaké skupiny vidíte a jak s nimi interagujete (např. role <span style="color:green">Středisková rada</span> umožní zobrazit veškeré kanály v kategorii *Středisková rada*.
+Discord je textový a hlasový komunikační nástroj, který jsme vybrali pro zpřehlednění střediskové komunikace. Discord nám nabízí možnost propojit se s ostatními lidmi skrze tzv. kanály, které jsou rozděleny do kategorií. Kanály jsou buď **textové** (fungují vlastně jako chatovací skupiny na whatsappu) **hlasové** pro videokonference. 
+Každý uživatel má na discordu přidělené role, což ovlivňuje to, jaké skupiny vidí a jak s nimi interaguje (např. role <span style="color:green">Středisková rada</span> umožní zobrazit veškeré kanály v kategorii *Středisková rada*.
 Discord funguje jak na webu tak v aplikaci (v mobilu i počítači).
 
  1. Začneme odkazem: klikni [zde](https://discord.gg/DFNyPvFENM)
