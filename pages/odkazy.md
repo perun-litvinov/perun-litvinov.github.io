@@ -14,3 +14,5 @@ description: Seznam používaných odkazů pro členy SRJ
 [Zápisy ze SRJ](https://drive.google.com/drive/folders/16GKVq2O3dAnpr1DxzrUsDsVex7umlqdg?usp=sharing)
 
 [Středisko na SkautISu](https://is.skaut.cz/Junak/OrganizationUnit/UnitDetail.aspx?ID=26723)
+
+[Transparentní účet](https://ib.fio.cz/ib/transparent?a=2101259432)
